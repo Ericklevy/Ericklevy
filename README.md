@@ -18,7 +18,7 @@
 | [**EcoWatch Brasil**](https://github.com/Ericklevy/ecowatch-brasil) | Monitoramento ambiental em tempo real das 27 capitais, com alertas por e-mail e push | Java 21 · Spring Boot · Kafka · RabbitMQ · Redis · React | 🟢 No ar |
 | [**Sistema de Solicitações**](https://github.com/Ericklevy/backend-solicitations) | API de pedidos de atendimento com cadastro em etapas, JWT e busca no Elasticsearch | Java 21 · Spring Boot · PostgreSQL · Elasticsearch | 🐳 Local com Docker |
 | **Natalfy** · [API](https://github.com/Ericklevy/natalfy-api) · [Front](https://github.com/Ericklevy/natalfy-frontend) | Gestão de clínica obstétrica full stack, com Clean Architecture, TDD e plano de parto por IA | Java 21 · Spring Boot · PostgreSQL · Redis · Angular 19 | 🐳 Local com Docker |
-| [**Resumo Gamer**](https://github.com/Ericklevy/game-news-bot) | Bot do Telegram que resume notícias e promoções de games, traduzidas com IA (OpenRouter, Groq, Gemini e SambaNova em fila) | Python · Docker · Oracle Cloud · GitHub Actions | 🟢 No ar |
+| [**Resumo Gamer**](https://github.com/Ericklevy/game-news-bot) · [canal](https://t.me/ResumoGamerBR) | Bot do Telegram que resume notícias e promoções de games, traduzidas com IA (OpenRouter, Groq, Gemini e SambaNova em fila) | Python · Docker · Oracle Cloud · GitHub Actions | 🟢 No ar |
 | [**AlligaBot**](https://github.com/fga-eps-mds/2021.1-AlligaBot) | Chatbot contra a desinformação sobre a Covid-19 (projeto em grupo, 2021). Fui responsável pela criação e pelo treinamento do bot | Python · Rasa · Docker | 🐳 Local com Docker |
 
 ### 🛠️ Tecnologias
