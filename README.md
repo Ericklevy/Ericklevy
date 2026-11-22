@@ -18,6 +18,7 @@
 | [**EcoWatch Brasil**](https://github.com/Ericklevy/ecowatch-brasil) | Monitoramento ambiental em tempo real das 27 capitais, com alertas por e-mail e push | Java 21 · Spring Boot · Kafka · RabbitMQ · Redis · React | 🟢 No ar |
 | [**Sistema de Solicitações**](https://github.com/Ericklevy/backend-solicitations) | API de pedidos de atendimento com cadastro em etapas, JWT e busca no Elasticsearch | Java 21 · Spring Boot · PostgreSQL · Elasticsearch | 🐳 Local com Docker |
 | **Natalfy** · [API](https://github.com/Ericklevy/natalfy-api) · [Front](https://github.com/Ericklevy/natalfy-frontend) | Gestão de clínica obstétrica full stack, com Clean Architecture, TDD e plano de parto por IA | Java 21 · Spring Boot · PostgreSQL · Redis · Angular 19 | 🐳 Local com Docker |
+| [**Resumo Gamer**](https://github.com/Ericklevy/game-news-bot) | Bot do Telegram que resume notícias e promoções de games, traduzidas com IA (OpenRouter, Groq, Gemini e SambaNova em fila) | Python · Docker · Oracle Cloud · GitHub Actions | 🟢 No ar |
 | [**AlligaBot**](https://github.com/fga-eps-mds/2021.1-AlligaBot) | Chatbot contra a desinformação sobre a Covid-19 (projeto em grupo, 2021). Fui responsável pela criação e pelo treinamento do bot | Python · Rasa · Docker | 🐳 Local com Docker |
 
 ### 🛠️ Tecnologias
@@ -34,6 +35,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
